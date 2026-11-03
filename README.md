@@ -1,2 +1,0 @@
-# Liss
-School management portal
